@@ -1,0 +1,54 @@
+* {
+	padding: 0;
+	margin: 0;
+	color: black;
+}
+
+.header {
+	background: #eb7575;
+	padding: 10px;
+}
+
+.footer {
+	background: #eb7575;
+}
+
+.footer-columns {
+	padding: 10px;
+
+	display: flex;
+}
+
+.footer-column {
+	flex: 50%;
+	margin: 10px;
+}
+
+.main {
+	background: silver;
+	padding: 10px;
+}
+
+.card {
+	background: #fff;
+	display: flex;
+	margin: 5px;
+	padding: 15px;
+	border-radius: 15px;
+}
+
+.card img {
+	border-radius: 15px;
+}
+
+.card-text {
+	padding-left: 20px;
+}
+
+.red {
+	color: rgb(0, 157, 255);
+}
+
+.one {
+	color: crimson;
+}
